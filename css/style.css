@@ -143,6 +143,8 @@
     }
     .wrapper{
         display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .signup{
         margin-left: 30px;
